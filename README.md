@@ -4,7 +4,7 @@
 ### Hello World 👋 It's [Lakshit Jain!](https://www.linkedin.com/in/lakshit-jain-2bb2a4220/)
 
 
-Hi, I'm Lakshit Jain🙌, a Web Developer & UI/UX Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi, I'm Lakshit Jain🙌, a Web Developer & UI/UX Enthusiast. Apart from that I love Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
